@@ -1,0 +1,114 @@
+.title-question {
+  font-weight: bold;
+  margin-top: 20px 0;
+}
+
+.subtitle-table {
+  text-align: left;
+  margin-bottom: 2%;
+  color: #7e7878;
+  margin-left: 4vh;
+}
+
+.ant-page-header-heading-extra {
+  width: 50%;
+}
+
+
+.ant-list-item-action {
+  margin-left: 0px;
+  margin-bottom: 20%;
+}
+
+.ant-card-head-title {
+  padding: 30px 0 0px;
+}
+
+.patient-row {
+  cursor: pointer;
+}
+
+.personal-data {
+  border-bottom: black 1px solid;
+  padding: 20px 0;
+}
+
+.personal-data-gender {
+  border-right: black 1px solid;
+}
+
+
+/**TAGS*/
+.status-tag {
+  padding: 5px 0px;
+  border: transparent 5px solid;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  width: 80%;
+}
+
+.status-tag {
+  text-transform: capitalize;
+}
+
+/*FILES*/
+.file-image {
+  width: 100%;
+}
+
+.divider-patient-file {
+  height: 100%;
+  border: black solid 1px;
+}
+
+.card-file {
+  border: black 1px solid;
+  padding: 0;
+}
+
+.file-info {
+  text-align: center;
+  align-self: center;
+}
+/*BUTTONS*/
+.modal-btn {
+  height: 40px;
+  border-radius: 5%;
+}
+
+.modal-btn-accept {
+  color: rgb(32, 166, 184);
+  border-color: rgb(32, 166, 184);
+}
+
+.modal-btn-cancel {
+  color: rgb(255, 41, 4);
+  border-color: rgb(255, 41, 4);
+}
+  .header-buttons {
+    text-align: left;
+    border-radius: 20%;
+    margin-left: 4vh;
+  }
+  .header-btn {
+    width: 14%;
+    margin: 0 2% 0 0;
+    height: 40px;
+    color: rgb(32, 166, 184);
+    border-color: rgb(32, 166, 184);
+    border-radius: 5%;
+  }
+  
+  .patients-view-buttons {
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 4vh;
+    font-size: large;
+  }
+  
+  .view-btn {
+    border: none;
+  }
